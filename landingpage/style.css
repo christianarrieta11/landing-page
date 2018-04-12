@@ -1,0 +1,63 @@
+          #logo{
+
+                margin-left: 3%;
+                margin-bottom: 15%;
+          }
+          .container
+          {
+                margin: 0 auto;
+
+          }
+          .card {
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+              max-width: 300px;
+              margin: auto;
+              text-align: center;
+          margin-top: 15%;
+        }
+
+            #buttons{
+              margin: 15px;
+              margin-left: 45%;
+              margin-top: 15%;
+
+
+
+            }
+
+              a{
+                  text-decoration: none;
+                  color: black;
+                  margin: 10px;
+
+              }
+              nav{
+
+              float: right;
+              margin-top: %;
+
+
+              }
+
+
+
+                .Resume-picture{
+                  text-align: center;
+                  margin-left: 20%;
+
+                }
+
+
+
+
+                    .body{
+                        margin-left: 10%;
+                    }
+
+
+                      .disply-Images{
+                        padding:5px;
+                        margin: auto  0;
+
+
+                      }
